@@ -1,0 +1,21 @@
+{
+  "isPublic": false,
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#F4FFDE",
+  "icon": "flight",
+  "slug": "master-input-panel",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "FLUID"
+  },
+  "evaluationVersion": 2,
+  "createdAt": {
+    "seconds": 1648396218,
+    "nanos": 882000000
+  },
+  "deleted": false
+}
